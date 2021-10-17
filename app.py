@@ -1,5 +1,3 @@
-!pip install --upgrade google-cloud-speech
-
 import os
 
 from google.cloud import speech
