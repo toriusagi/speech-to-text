@@ -1,5 +1,4 @@
 streamlit==0.68
-google.cloud
 google-api-core==2.1.0
 google-auth==2.0.2
 google-auth-oauthlib==0.4.6
